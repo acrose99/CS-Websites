@@ -1,6 +1,6 @@
 |Websites                                   |Title                    |Tags|
 |-------------------------------------------|-------------------------|----|
-|https://www.coderbyte.com/                 |CoderByter               |
+|https://www.coderbyte.com/                 |CoderByte               |
 |https://www.codewars.com/                  |CodeWars                 |
 |https://www.codecademy.com/                |Codecademy               |
 |https://www.datacamp.com/                  |DataCamp                 |
@@ -44,4 +44,30 @@
 |https://www.learnscala.org/                |Learn Scala              |
 |https://www.learnsqlonline.org/            |Learn SQL Online         |
 |http://www.pyschools.com/                  |PySchools                |
-
+|https://teamtreehouse.com/                 |Treehouse                |
+|https://tinyurl.com/sjhk47f                |5 Coding Challenges      |
+|https://medium.com/coderbyte               |Tech X Talent            |
+|https://codesignal.com/developers/         |CodeSignal               |
+|https://news.ycombinator.com/news          |HackerNews               |
+|https://app.codility.com/programmers/      |Codility                 |
+|https://www.techgig.com/practice           |TechGig                  |
+|https://www.hackerearth.com/challenges/    |HackerEarth              |
+|https://hackr.io/                          |Hackr.io                 |
+|https://www.interviewbit.com/              |Interviewbit             |
+|https://codecup.dev/problems/              |CodeCup                  |
+|https://www.techiedelight.com/             |Techidelight             |
+|https://net-tutorials.com/                 |Net Tutorials            |
+|https://www.completecsharptutorial.com/    |Complete C# Turorials    |
+|https://adventofcode.com/                  |Advent of Code           |
+|https://code.org/                          |Code.org                 |
+|https://cryptopals.com/                    |Cryptopals               |
+|https://www.coursera.org/                  |Coursera                 |
+|https://www.javatpoint.com/                |Java Point               |
+|https://www.php.net/manual/en/index.php    |PHP Reference Manual     |
+|https://tinyurl.com/nobba65                |Khan Academy             |
+|https://learncodethehardway.org/           |Learn Code the Hard Way  |
+|https://www.tutorialspoint.com/index.htm   |Tutorialspoint           |
+|https://www.cybrary.it/                    |Cybrary                  |
+|https://tinyurl.com/qrh35s4                |Open Culture CS Courses  |
+|https://tinyurl.com/uj2vuyt                |Programmable Web API List|
+|https://www.quantamagazine.org/            |Quanta Magazine          |
