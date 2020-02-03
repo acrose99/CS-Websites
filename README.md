@@ -15,11 +15,9 @@ This repository will not restrict itself to a particular CS websites. But it wil
 
 ---
 ## Use Case
-These files were developed as templates to allow someone (me mostly) to quickly develop a README.md or web page quickly without much thought.
+This list is meant to help all people who are interested in CS get started.
 
-The true value of these Markdown files is that since they are templates, they can be modified to meet the requirements of any project or web page.
-
-Currently, I am implementing these Markdown files across all of my Github projects.
+To see the list click on the [Websites.md](Websites.md) file. 
 
 ---
 ## Project Inspiration
