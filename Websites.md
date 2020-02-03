@@ -1,6 +1,6 @@
 |Websites                                   |Title                    |Tags|
 |-------------------------------------------|-------------------------|----|
-|https://www.coderbyte.com/                 |CoderByte               |
+|https://www.coderbyte.com/                 |CoderByte                |
 |https://www.codewars.com/                  |CodeWars                 |
 |https://www.codecademy.com/                |Codecademy               |
 |https://www.datacamp.com/                  |DataCamp                 |
@@ -73,3 +73,6 @@
 |https://www.quantamagazine.org/            |Quanta Magazine          |
 |https://edabit.com/                        |Edabit                   |
 |https://www.kaggle.com/                    |Kaggle                   |
+https://towardsdatascience.com/             |Towards Data Science     |Machine Learning, Data Science
+https://www.tensorflow.org/                 |Tensorflow               |Machine Learning, Data Science
+https://scikit-learn.org/stable/            |Scikit-learn             |Machine Learning, Data Science
