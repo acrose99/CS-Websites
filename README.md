@@ -3,7 +3,7 @@
 
 ## Table of Contents
 ### - *[About](#about)*
-### - *[Use Case](use-case)*
+### - *[Use Case](#use-case)*
 ### - *[Project Inspiration](#project-inspiration)*
 ### - *[License](#license)*
 
