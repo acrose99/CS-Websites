@@ -71,3 +71,4 @@
 |https://tinyurl.com/qrh35s4                |Open Culture CS Courses  |
 |https://tinyurl.com/uj2vuyt                |Programmable Web API List|
 |https://www.quantamagazine.org/            |Quanta Magazine          |
+|https://edabit.com/                        |Edabit                   |
