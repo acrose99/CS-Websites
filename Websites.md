@@ -73,6 +73,11 @@
 |https://www.quantamagazine.org/            |Quanta Magazine          |
 |https://edabit.com/                        |Edabit                   |
 |https://www.kaggle.com/                    |Kaggle                   |
+|https://tinyurl.com/st2h3s3                |All Lite Books GitHub    |
+|https://tinyurl.com/h3a8slm                |Computerphile            |
+|https://tinyurl.com/qfksdbo                |Brackeys                 |
+|https://www.youtube.com/thecodingtrain/    |The Coding Train         |
+|https://tinyurl.com/y8ebqtsn               |Code Bullet              |
 https://towardsdatascience.com/             |Towards Data Science     |Machine Learning, Data Science
 https://www.tensorflow.org/                 |Tensorflow               |Machine Learning, Data Science
 https://scikit-learn.org/stable/            |Scikit-learn             |Machine Learning, Data Science
