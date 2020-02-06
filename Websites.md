@@ -1,6 +1,6 @@
 |Websites                                   |Title                    |Tags|
 |-------------------------------------------|-------------------------|----|
-|https://www.coderbyte.com/                 |CoderByte               |
+|https://www.coderbyte.com/                 |CoderByte                |
 |https://www.codewars.com/                  |CodeWars                 |
 |https://www.codecademy.com/                |Codecademy               |
 |https://www.datacamp.com/                  |DataCamp                 |
@@ -78,3 +78,6 @@
 |https://tinyurl.com/qfksdbo                |Brackeys                 |
 |https://www.youtube.com/thecodingtrain/    |The Coding Train         |
 |https://tinyurl.com/y8ebqtsn               |Code Bullet              |
+https://towardsdatascience.com/             |Towards Data Science     |Machine Learning, Data Science
+https://www.tensorflow.org/                 |Tensorflow               |Machine Learning, Data Science
+https://scikit-learn.org/stable/            |Scikit-learn             |Machine Learning, Data Science
