@@ -1,13 +1,13 @@
-|Websites                                   |Title                    |Tags
-|-------------------------------------------|-------------------------|----
-|https://www.coderbyte.com/                 |CoderByte                |Interview practice, Coding Challenges
-|https://www.codewars.com/                  |CodeWars                 |Coding challenges
-|https://www.codecademy.com/                |Codecademy               |Learn programming
-|https://www.datacamp.com/                  |DataCamp                 |Learn data science
-|https://www.w3schools.com/                 |W3 Schools               |Learn programming
-|https://developer.mozilla.org/en-US/       |Mozilla Developer Network|Documentation
-|https://stackoverflow.com/                 |StackOverflow            |CS Help
-|https://www.topcoder.com/challenges        |TopCoder                 |Coding Challenges
+|Websites                                   |Title                    |
+|-------------------------------------------|-------------------------|
+|https://www.coderbyte.com/                 |CoderByte                |
+|https://www.codewars.com/                  |CodeWars                 |
+|https://www.codecademy.com/                |Codecademy               |
+|https://www.datacamp.com/                  |DataCamp                 |
+|https://www.w3schools.com/                 |W3 Schools               |
+|https://developer.mozilla.org/en-US/       |Mozilla Developer Network|
+|https://stackoverflow.com/                 |StackOverflow            |
+|https://www.topcoder.com/challenges        |TopCoder                 |
 |https://www.hackerrank.com/                |HackerRank               |
 |https://www.codechef.com/problems/         |CodeChef                 |
 |https://projecteuler.net/archives          |Project Eular            |
@@ -78,6 +78,6 @@
 |https://tinyurl.com/qfksdbo                |Brackeys                 |
 |https://www.youtube.com/thecodingtrain/    |The Coding Train         |
 |https://tinyurl.com/y8ebqtsn               |Code Bullet              |
-https://towardsdatascience.com/             |Towards Data Science     |Machine Learning, Data Science
-https://www.tensorflow.org/                 |Tensorflow               |Machine Learning, Data Science
-https://scikit-learn.org/stable/            |Scikit-learn             |Machine Learning, Data Science
+https://towardsdatascience.com/             |Towards Data Science     |
+https://www.tensorflow.org/                 |Tensorflow               |
+https://scikit-learn.org/stable/            |Scikit-learn             |
