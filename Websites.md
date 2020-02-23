@@ -1,13 +1,13 @@
-|Websites                                   |Title                    |Tags|
-|-------------------------------------------|-------------------------|----|
-|https://www.coderbyte.com/                 |CoderByte                |
-|https://www.codewars.com/                  |CodeWars                 |
-|https://www.codecademy.com/                |Codecademy               |
-|https://www.datacamp.com/                  |DataCamp                 |
-|https://www.w3schools.com/                 |W3 Schools               |
-|https://developer.mozilla.org/en-US/       |Mozilla Developer Network|
-|https://stackoverflow.com/                 |StackOverflow            |
-|https://www.topcoder.com/challenges        |TopCoder                 |
+|Websites                                   |Title                    |Tags
+|-------------------------------------------|-------------------------|----
+|https://www.coderbyte.com/                 |CoderByte                |Interview practice, Coding Challenges
+|https://www.codewars.com/                  |CodeWars                 |Coding challenges
+|https://www.codecademy.com/                |Codecademy               |Learn programming
+|https://www.datacamp.com/                  |DataCamp                 |Learn data science
+|https://www.w3schools.com/                 |W3 Schools               |Learn programming
+|https://developer.mozilla.org/en-US/       |Mozilla Developer Network|Documentation
+|https://stackoverflow.com/                 |StackOverflow            |CS Help
+|https://www.topcoder.com/challenges        |TopCoder                 |Coding Challenges
 |https://www.hackerrank.com/                |HackerRank               |
 |https://www.codechef.com/problems/         |CodeChef                 |
 |https://projecteuler.net/archives          |Project Eular            |
